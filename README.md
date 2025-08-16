@@ -62,10 +62,10 @@
 <p align="center">
   <a href="https://linktr.ee/abdelsatar777" target="_blank">
     <img 
-      src="https://static.vecteezy.com/system/resources/previews/048/759/320/non_2x/linktree-transparent-icon-free-png.png" 
+      src="https://play-lh.googleusercontent.com/x3Kpw4L_-miSO6eumND8Az4ltZ2Ype6vSrJeJJW44Jugzn8KuKXaqsu_E_Zjx0Db5Hw" 
       alt="Linktree" 
-      width="250" 
-      height="250" 
+      width="150" 
+      height="150" 
       style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: transform 0.3s;" 
       onmouseover="this.style.transform='scale(1.1)'" 
       onmouseout="this.style.transform='scale(1)'"
