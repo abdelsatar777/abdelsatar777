@@ -4,7 +4,7 @@
 </div>
 
 <!--Section Hi-->
-<p align="center"><strong style="font-size: 50px;">Hi, I'm Mohamed Abdelsatar</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></p>
+<h1 align="center">Hi, I'm Mohamed Abdelsatar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--Section About Me-->
 <!--Title-->
