@@ -35,11 +35,13 @@
 <!--contact-->
 
 ![Programming Languages](https://img.shields.io/badge/Programming%20Languages-4B8BBE?style=for-the-badge&logo=flutter&logoColor=white)
+<br>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,py,css,html,git,&perline=10" />
 </a>
 
 ![Tools & Platforms](https://img.shields.io/badge/Tools%20%26%20Platforms-FF6C37?style=for-the-badge&logo=appveyor&logoColor=white)
+<br>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,firebase,supabase,github,postman,ps,&perline=10" />
 </a>
