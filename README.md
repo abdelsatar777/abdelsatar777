@@ -5,13 +5,12 @@
 
 <!--Section Hi-->
 <p align="center"><strong style="font-size: 32px;">Hi, I'm Mohamed Abdelsatar</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
-<br>
 
 <!--Section About Me-->
 <!--Title-->
 # About me <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 <!--Image-->
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 <!-- About -->
 - 🎓 I'm a BIS student passionate about **Flutter Development** and mobile app building.
 - 🏫 Studied programming for 3 years at **El Sewedy Academy**.
