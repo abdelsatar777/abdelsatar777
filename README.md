@@ -64,8 +64,8 @@
     <img 
       src="https://static.vecteezy.com/system/resources/previews/048/759/320/non_2x/linktree-transparent-icon-free-png.png" 
       alt="Linktree" 
-      width="150" 
-      height="150" 
+      width="250" 
+      height="250" 
       style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: transform 0.3s;" 
       onmouseover="this.style.transform='scale(1.1)'" 
       onmouseout="this.style.transform='scale(1)'"
