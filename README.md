@@ -23,7 +23,7 @@
   - SQLite Local Database
 - 🚀 Built multiple projects applying **industry best practices**.
 - 🎯 I'm on a journey to become a **Skilled Flutter Developer**.
-- 💼 Currently open to **job opportunities** — [Check My CV](https://drive.google.com/file/d/11uABxcuGpD51mg3UqNLAxl7vcqrZ6uIt/view?usp=sharing)
+- 💼 Currently open to **job opportunities** — [Check My CV](https://drive.google.com/file/d/1UYfcMLBQaLBD4pvhyAwRydaEPA3ETvR8/view?usp=sharing)
 <br>
 
 <!--Section Skills-->
