@@ -48,9 +48,6 @@
 <!--Section GitHub Stats-->
 # GitHub Stats 📊
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelsatar777&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abdelsatar777&theme=tokyonight&hide_border=true" />
 </p>
 
